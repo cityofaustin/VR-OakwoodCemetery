@@ -1,0 +1,135 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = VR Tour of the Oakwood Cemetery collaboration with the City of Austin Park Rangers
+
+### Title
+tour.name = Oakwood Cemetery
+
+## Skin
+
+### Multiline Text
+HTMLText_119E6B44_03C9_3A60_417F_E649C6F59526.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2e8099;font-size:37px;"><B>City of Austin VR</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2e8099;font-size:37px;"><B>Oakwood Cemetery</B></SPAN><SPAN STYLE="font-size:37px;"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Austin Parks and Recreation</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Located at 1601 Navasota Street, Oakwood Cemetery was originally established in 1839 as the “City Cemetery” at the then northeast corner of the original town plat. In 1856, the Texas legislature granted the property to the City of Austin. The City Cemetery originally consisted of 10 acres of land known as the Old Grounds but has grown to 40 acres divided into sections 1-4, including two Jewish sections. The earliest grave marker shown in historical records was 1840, although there is speculation that the earliest burial was in 1839. The cemetery has over 22,000 burials of people of many races.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">In 1839, when Austin was being opened as a site favored for the capital of the Republic of Texas, a regular burial place was established in what is now the southwest part of Oakwood Cemetery. A decedent was buried on this hill at a spot to the right of Oakwood's present main entrance and northwest of the Hebrew ground within the enclosure. It was not until Sept. 1, 1856, however, that the land legally became city property. On that day the Legislature of Texas transferred the burial tract from the public lands to the corporate city of Austin. Across the decades, the name has changed: in 1866 it was "City Cemetery"; 1903, "Austin City Cemetery"; 1912, "Oakwood". Here lie the mortal remains of many pioneers and builders of Austin, and their successors: among them national and state personalities; cabinet members, governors and other high state officials, mayors, business and professional leaders, and solid citizens from all walks of life. The two Jewish sections of Oakwood have been given perpetual care by Temple Beth Israel since 1876. The Austin city government accepted responsibility for permanent care of Oakwood Cemetery in 1970. (1973) </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">This project was created in collaboration with the City of Austin Parks and Recreation and Communications and Technology Management (CTM) Department.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;"><B>Oakwood Cemetery VR Team</B></SPAN><SPAN STYLE="font-size:15px;"><B>:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Jennifer Chenoweth</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Trent Atkins</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Marbenn Cayetano</SPAN></SPAN></DIV></div>
+
+### Tab Panel
+TabPanelPage_EB10C36D_FBF3_5779_41D1_E8A51BE7EF1E.label = Oakwood Cemetery Media
+TabPanelPage_EB11236D_FBF3_5779_41BB_E21B1976C389.label = About
+TabPanelPage_EB17836D_FBF3_5779_41B5_0B878DD1E213.label = Oakwood Cemetery
+
+### Tooltip
+IconButton_03D08FA0_16F2_4323_41B0_42D4929F2451.toolTip = VR Mode
+Image_E9C82CBA_F8EA_E311_41E9_A6E55967A747.toolTip = Austin Parks & Recreation
+
+## Media
+
+### Title
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4.label = Cemetery
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_0.label = Cemetery-99
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_10.label = Cemetery-9
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_109.label = Cemetery-16
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_12.label = Cemetery-88
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_120.label = Cemetery-15
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_138.label = Cemetery-133
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_141.label = Cemetery-130
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_142.label = Cemetery-13
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_143.label = Cemetery-129
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_145.label = Cemetery-127
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_147.label = Cemetery-125
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_148.label = Cemetery-124
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_149.label = Cemetery-123
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_152.label = Cemetery-120
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_155.label = Cemetery-118
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_156.label = Cemetery-117
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_157.label = Cemetery-116
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_158.label = Cemetery-115
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_161.label = Cemetery-112
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_165.label = Cemetery-109
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_169.label = Cemetery-105
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_170.label = Cemetery-104
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_173.label = Cemetery-101
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_175.label = Cemetery-10
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_19.label = Cemetery-81
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_20.label = Cemetery-80
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_21.label = Cemetery-8
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_26.label = Cemetery-75
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_28.label = Cemetery-73
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_3.label = Cemetery-96
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_35.label = Cemetery-67
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_38.label = Cemetery-64
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_4.label = Cemetery-95
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_44.label = Cemetery-59
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_46.label = Cemetery-57
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_48.label = Cemetery-55
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_5.label = Cemetery-94
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_55.label = Cemetery-49
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_57.label = Cemetery-47
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_58.label = Cemetery-46
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_6.label = Cemetery-93
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_60.label = Cemetery-44
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_61.label = Cemetery-43
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_64.label = Cemetery-40
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_65.label = Cemetery-4
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_66.label = Cemetery-39
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_69.label = Cemetery-36
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_72.label = Cemetery-33
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_77.label = Cemetery-29
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_78.label = Cemetery-28
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_8.label = Cemetery-91
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_83.label = Cemetery-23
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_84.label = Cemetery-22
+album_7FE7B83D_71F5_C788_41CC_95B1C8ACA0E4_86.label = Cemetery-20
+album_9559F3FF_9215_C888_415A_30A102674EAA.label = Chapel
+album_9559F3FF_9215_C888_415A_30A102674EAA_0.label = Cemetery-134
+album_9559F3FF_9215_C888_415A_30A102674EAA_1.label = Cemetery-136
+album_9559F3FF_9215_C888_415A_30A102674EAA_18.label = Cemetery-152
+album_9559F3FF_9215_C888_415A_30A102674EAA_19.label = Cemetery-153
+album_9559F3FF_9215_C888_415A_30A102674EAA_25.label = Cemetery-159
+album_9559F3FF_9215_C888_415A_30A102674EAA_27.label = Cemetery-161
+album_9559F3FF_9215_C888_415A_30A102674EAA_30.label = Cemetery-166
+album_9559F3FF_9215_C888_415A_30A102674EAA_32.label = Cemetery-164
+album_9559F3FF_9215_C888_415A_30A102674EAA_34.label = Cemetery-162
+album_9559F3FF_9215_C888_415A_30A102674EAA_38.label = Cemetery-172
+album_9559F3FF_9215_C888_415A_30A102674EAA_43.label = Cemetery-177
+map_A111D371_B0B1_9E6A_41E0_C98AC99789EC.label = OakwoodCemetery
+panorama_42040183_4E55_2197_4198_B8DEA2CECCC7.label = Chapel-4
+panorama_4204033D_4E56_E2F3_41B2_CC8498EC4B7A.label = Path-3
+panorama_42040924_4E55_2E91_41C6_A66B5B0604A3.label = Cemetery Chapel
+panorama_42040BF6_4E55_E171_41C5_BDE1046874B2.label = Chapel-5
+panorama_420426EE_4E55_2391_41D1_C400BCC6421F.label = Chapel-3
+panorama_42043D53_4E55_66B7_41D2_4D954E47B191.label = Chapel-2
+panorama_4204421E_4E55_22B1_41B1_6D1583AD464A.label = Path-1
+panorama_42045313_4E55_22B7_41C9_7EBBA17C8B71.label = Chapel-1
+panorama_42049A9D_4E56_E3B3_41CA_7BD523E59C10.label = Path-2
+panorama_4204A07C_4E57_3F71_41C7_DF5D176972CF.label = Path-7
+panorama_4204D0C8_4E56_FF91_41D0_5BCF76C21F97.label = Path-10
+panorama_4204D84B_4E57_2E97_41CC_93BB65875B4D.label = Path-9
+panorama_4204DFD2_4E55_61B1_419C_20AEF44017B7.label = Road-1
+panorama_4204E638_4E55_22F1_41CD_2643799F0BEF.label = Chapel-6
+panorama_4204E9F2_4E55_6171_41D1_1702626C704C.label = Road-2
+panorama_4204FF03_4E57_2297_41B2_E2871AFDEE8A.label = Path-8
+panorama_4205579E_4E57_61B1_41D2_F03BF5AA868F.label = POI-2
+panorama_42058776_4E57_E171_416E_104B63D9347E.label = Path-6
+panorama_4205882D_4E57_2E93_41A9_2A9EEC7E39E1.label = POI-1
+panorama_4205A1F5_4E57_6173_418E_98CDF850D5B7.label = Path-5
+panorama_4205DA81_4E57_2393_41D2_A55104753949.label = Path-4
+panorama_420700CC_4E55_DF91_41D2_92284AC19C95.label = Path-15
+panorama_420716BE_4E55_23F1_41A7_522935D9DF17.label = Path-14
+panorama_42071C7C_4E55_6771_41BA_CF5A8AD44491.label = Path-13
+panorama_420722C3_4E55_2397_419F_FDBF1D8A2558.label = Path-12
+panorama_42073E11_4E55_62B3_41C8_6FD29670E406.label = Path-17
+panorama_42074145_4E55_3E92_41CD_E8EC3D74304F.label = POI-4
+panorama_4207687F_4E55_2F6F_41C3_E7A4AD9765AE.label = Path-11
+panorama_4207B50D_4E55_2693_41A9_8AB9B870551F.label = Path-16
+panorama_4207C79C_4E55_61B1_41CE_E0ABC24D15F7.label = POI-3
+
+## Popup
+
+### Body
+htmlText_A5495417_B19E_B9D6_41E0_496E5FA8C055.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>VR Mode</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This mode is accessible using a mobile device within a VR headset or a dedicated VR headset.  It will provide the most immersive experience.</SPAN></DIV></BODY></HTML></div>
+
+## Action
+
+### URL
+LinkBehaviour_46B44877_4E4D_2F7F_41AD_6AD00F9A92AE.source = http://www.austintexas.gov/page/oakwood-cemetery-chapel-resources
